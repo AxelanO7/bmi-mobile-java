@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Kalkulator Berat Badan Ideal</string>
+<!--    welcome-->
+    <string name="tv_welcome_1">Selamat Datang Di Aplikasi\nKalkulator Berat Badan Ideal</string>
+    <string name="btn_welcome_1">Mulai</string>
+
+<!--    input-->
+    <string name="btn_input_1">Hitung</string>
+    <string name="tv_input_0">Halaman Input</string>
+    <string name="tv_input_1">Tinggi Badan</string>
+    <string name="tv_input_2">Berat Badan</string>
+    <string name="tv_input_3">Jenis Kelamin</string>
+    <string name="rb_input_1">Laki-laki</string>
+    <string name="rb_input_2">Perempuan</string>
+<!--    output-->
+    <string name="tv_output_0">Halaman Output</string>
+    <string name="tv_output_1">Rumus Menghitung\nIdeal Berat Badan</string>
+    <string name="tv_output_2">Laki :\n(Tinggi - 100 Cm) x 90 %</string>
+    <string name="tv_output_3">Perempuan :\n(Tinggi - 100 Cm) x 80 %</string>
+</resources>
